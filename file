@@ -4,5 +4,6 @@ We'll be adding lines of gibberish between the following two lines.
 
 here are some changes 
 
+Even more changes.
 <<<<<<<<<
 This should allow us to see what PRs look like in Git.
