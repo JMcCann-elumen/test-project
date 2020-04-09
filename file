@@ -2,7 +2,7 @@ This is the test file.
 We'll be adding lines of gibberish between the following two lines.
 >>>>>>>>>
 
-here are some chgs
+here are some changes 
 
 <<<<<<<<<
 This should allow us to see what PRs look like in Git.
